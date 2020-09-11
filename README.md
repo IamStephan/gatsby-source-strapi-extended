@@ -1,4 +1,4 @@
-# gatsby-source-strapi
+# gatsby-source-strapi-extended
 
 Source plugin for pulling documents into Gatsby from a Strapi API.
 
